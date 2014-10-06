@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.sevenworld.wonders" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.sevenworld.wonders" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>7 World Wonders</name>
     <description>
         This application lists and describes about the 7 wonders of the World! Enjoy the convenience of having the information of these places in your palm! Kindly feedback!=)
